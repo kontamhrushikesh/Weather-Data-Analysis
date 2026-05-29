@@ -14,11 +14,11 @@ Handle missing values,
 Export cleaned data to a new CSV file,
 Simple command-line interface.
 
-Technologies Used-
+**Technologies Used-**
 Python 3.13.x,
 Pandas
 
-Project Structure-
+**Project Structure-**
 Weather Data Analysis/
 ├── Weather_Analysis.py
 ├── Unclean_Weather_data.csv
@@ -26,7 +26,7 @@ Weather Data Analysis/
 ├── README.md
 └── requirements.txt
 
-Installation-
+**Installation-**
 Clone the repository ->
 Navigate to the project directory ->
 Install the required dependency:
@@ -34,9 +34,7 @@ Install the required dependency:
 
 **Usage-**
 Run the tool
-
 (python Weather_Analysis.py)
-
 When prompted, enter the path to your CSV file.
 
 **Example:**
